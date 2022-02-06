@@ -10,7 +10,8 @@ regenerate: true
 ## wiki items
 
 * [[mathjax-latex]]
-* [[swing]]
+* [[swing]]{의미가 없다면 스윙은 없다}
+
 ---
 
 ## blog posts
