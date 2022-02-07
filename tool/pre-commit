@@ -1,6 +1,7 @@
 #!/bin/sh
 
-./generateData.js
-./tool/save-images.sh
+
+C:\bodyrock13\bodyrock13.github.io\generateData.js
+C:\bodyrock13\bodyrock13.github.io\tool/save-images.sh
 git add _data
 git add data
