@@ -12,7 +12,6 @@ regenerate: true
 * [[mathjax-latex]]
 * [[swing]]{의미가 없다면 스윙은 없다}
 * [[stock-of-mind]]{주식하는 마음}
-* [[ldd]]{법률실사}
 
 
 ---
