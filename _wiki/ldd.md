@@ -1,10 +1,10 @@
 ---
 layout  : wiki
-title   : ¹ý·ü½Ç»ç 
+title   : ë²•ë¥ ì‹¤ì‚¬ 
 summary : 
 date    : 2022-02-09 00:57:02 +0900
 updated : 2022-02-09 00:57:33 +0900
-tags    : ¹ý·ü½Ç»ç 
+tags    : ë²•ë¥ ì‹¤ì‚¬ 
 toc     : true
 public  : true
 parent  : 
@@ -13,4 +13,4 @@ latex   : false
 * TOC
 {:toc}
 
-## ¹ý·ü½Ç»ç Ç×¸ñ 
+## ë²•ë¥ ì‹¤ì‚¬ í•­ëª©
