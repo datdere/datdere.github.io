@@ -15,7 +15,7 @@ regenerate: true
 * [[ldd]]{법률실사}
 * [[stock-option]]{주식매수선택권(스톡옵션)}
 * [[jewish-economic-history]]{유대인 이야기}
-* 
+ 
 
 ---
 
