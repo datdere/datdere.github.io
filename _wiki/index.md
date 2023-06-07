@@ -17,7 +17,9 @@ regenerate: true
 * [[stock-option]]{주식매수선택권(스톡옵션)}
 
 ### 법
+#### M&A
 * [[ldd]]{법률실사}
+* [[sandbagging]]{샌드배깅}
 
 ---
 
