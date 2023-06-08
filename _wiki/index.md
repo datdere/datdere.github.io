@@ -14,12 +14,12 @@ regenerate: true
 * [[swing]]{의미가 없다면 스윙은 없다}
 * [[jewish-economic-history]]{유대인 이야기}
 * [[stock-of-mind]]{주식하는 마음}
-* [[stock-option]]{주식매수선택권(스톡옵션)}
 
 ### 법
-#### M&A
-* [[ldd]]{법률실사}
-* [[sandbagging]]{샌드배깅}
+* [[stock-option]]{주식매수선택권(스톡옵션)}
+* M&A
+    * [[ldd]]{법률실사}
+    * [[sandbagging]]{샌드배깅}
 
 ---
 
