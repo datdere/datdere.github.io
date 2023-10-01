@@ -10,6 +10,7 @@ regenerate: true
 ## wiki items
 
 ### 도서
+* [[you-can-age-slowly-too]]{당신도 느리게 나이 들 수 있습니다}
 * [[what-i-learn-running]]{안철수, 내가 달리기를 하며 배운 것들}
 * [[swing]]{의미가 없다면 스윙은 없다}
 * [[jewish-economic-history]]{유대인 이야기}
