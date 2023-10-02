@@ -3,7 +3,7 @@ layout  : wiki
 title   : 내면소통
 summary : 
 date    : 2023-10-02 17:47:19 +0900
-updated : 2023-10-02 20:54:42 +0900
+updated : 2023-10-02 20:56:27 +0900
 tag     : 도서, 건강
 toc     : true
 public  : true
